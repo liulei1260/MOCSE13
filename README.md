@@ -1,0 +1,2 @@
+# MOCSE13
+e create the dataset MOCSE13 by using Unity to generate synthetic images for 13 different objects (fruits and vegetables). We propose deep model architectures for multi-class object counting and object size estimation. Our proposed models with different backbones are evaluated on the synthetic dataset. The experimental results provide a benchmark for multi-class object counting and size estimation and the synthetic dataset can be served as a proper testbed for future studies.
