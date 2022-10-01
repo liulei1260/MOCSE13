@@ -8,7 +8,7 @@ A Pytorch implementation of deep model based approach for single/multi-class obj
 
 # How to use
 1. Modify the data path and parameter settings as needed
-2. Use this command to train and test: python3 single/multi-counting/size.py  
+2. Use this command to train and test: python3 single(or multi)-counting(or size).py  
    i.e: python3 multi_channels_size_estination
 
 # Reference
